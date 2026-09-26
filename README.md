@@ -54,7 +54,13 @@ The theme uses a near-black neutral background, restrained UI contrast, muted se
 
 ## Installation
 
-Once published, install **Brackets Refined** from Zed's Extensions view and select it from the Theme Selector.
+**Brackets Refined** is available from Zed's Extensions catalog.
+
+1. Open Zed.
+2. Open **Extensions**.
+3. Search for **Brackets Refined**.
+4. Click **Install**.
+5. Open the Theme Selector and select **Brackets Refined**.
 
 ### Development Installation
 
@@ -69,6 +75,14 @@ themes/brackets-refined.json
 ```
 
 After changing the theme, use **Rebuild** for the development extension in Zed's Extensions view to reload it.
+
+## Acknowledgements
+
+Brackets Refined is an independent theme for Zed inspired by the visual style and syntax highlighting of the Brackets code editor.
+
+Thanks to the Brackets and Zed communities and their contributors for the tools, documentation, and ecosystem that made this theme possible.
+
+This project is not affiliated with, endorsed by, or sponsored by Adobe, the Brackets project, or Zed Industries.
 
 ## License
 
