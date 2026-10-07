@@ -1,6 +1,6 @@
 id = "brackets-refined-theme"
 name = "Brackets Refined"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["NeroWolfe75"]
 description = "A refined dark theme for Zed with a neutral interface and carefully balanced syntax colors."

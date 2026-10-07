@@ -116,6 +116,16 @@
         "unreachable": "#6F7680",
         "unreachable.background": "#6F768014",
         "unreachable.border": "#6F7680",
+        "version_control.added": "#98C379",
+        "version_control.deleted": "#E06C75",
+        "version_control.modified": "#61AFEF",
+        "version_control.renamed": "#56B6C2",
+        "version_control.conflict": "#E5C07B",
+        "version_control.ignored": "#6F7680",
+        "version_control.word_added": "#98C37959",
+        "version_control.word_deleted": "#E06C7559",
+        "version_control.conflict_marker.ours": "#98C3791A",
+        "version_control.conflict_marker.theirs": "#61AFEF1A",
         "predictive": "#8B949E",
         "predictive.background": "#8B949E14",
         "predictive.border": "#8B949E",
@@ -277,6 +287,10 @@
           "operator": {
             "color": "#56B6C2"
           },
+          "predictive": {
+            "color": "#8B949E",
+            "font_style": "italic"
+          },
           "preproc": {
             "color": "#C678DD"
           },
@@ -294,6 +308,21 @@
           },
           "punctuation.delimiter": {
             "color": "#D8DEE9"
+          },
+          "punctuation.list_marker": {
+            "color": "#D8DEE9"
+          },
+          "punctuation.markup": {
+            "color": "#D8DEE9"
+          },
+          "punctuation.special": {
+            "color": "#56B6C2"
+          },
+          "selector": {
+            "color": "#E5C07B"
+          },
+          "selector.pseudo": {
+            "color": "#C678DD"
           },
           "string": {
             "color": "#98C379"
